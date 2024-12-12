@@ -2,6 +2,13 @@ master: 0.1
 develop: 1st commit
 develop: 2nd commit
 develop: 3rd commit
+develop: 4th commit
+hotfixes: severe bugfix for 0.2
+develop: 5th commit
 second-feature: 1st commit
 second-feature: 2nd commit
 second-feature: 3rd commit
+develop: 6th commit
+release: 1st bugfix
+release: 2nd bugfix
+develop: 7th commit
