@@ -11,5 +11,15 @@ second-feature: 3rd commit
 develop: 6th commit
 release: 1st bugfix
 release: 2nd bugfix
+develop: 7th commit
 release: 3rd bugfix
 release: 4th bugfix
+develop: 8th commit
+first-feature: 1st commit
+first-feature: 2nd commit
+first-feature: 3rd commit
+first-feature: 4th commit
+second-feature: 4th commit
+second-feature: 5th commit
+second-feature: 6th commit
+develop: 9th commit
